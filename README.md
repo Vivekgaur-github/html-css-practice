@@ -1,5 +1,5 @@
 # html-css-practice
-project for practicing html and css
+project for practicing html and css <br>
 Project 1 - Tribute Website <br>
 Project 2 - Job Application <br>
 Project 3 - Parallax Wesbite <br>
